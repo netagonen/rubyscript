@@ -1,15 +1,8 @@
-def cool_song
-  puts "I want a dyke for president"
-  puts "..."
-  puts "I want a Black woman for president"
-  puts "I want someone with bad teeth..."
-  puts "Zoe Leonard"
-  puts "1992"
-end
+print "Give me a line please"
+input = get.chomp
 
-cool_song
-
-def cool_song1
+def cool_song (input)
+  puts input
   puts "\"I want a dyke for president"
   puts "..."
   puts "I want a Black woman for president"
@@ -18,6 +11,6 @@ def cool_song1
   puts "1992\""
 end
 
-cool_song1
+cool_song
 
 #these programs print this cool song, one with quotes and one without
