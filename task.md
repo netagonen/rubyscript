@@ -17,10 +17,15 @@
 1. Write a ruby program with exactly the following output (including separate lines and dots):
 
   I want a dyke for president
+  
   ...
+  
   I want a Black woman for president
+  
   I want someone with bad teeth...
+  
   Zoe Leonard
+  
   1992
 
 2. Put quotes around the poem:
