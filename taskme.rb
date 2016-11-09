@@ -9,8 +9,10 @@ def cool_song (input)
   puts "I want someone with bad teeth..."
   print "What is your name?"
   name = gets.chomp
-  puts "Zoe Leonard &#{name}"
+  puts "Zoe Leonard & #{name}"
   puts "1992\""
+  lines = input.length
+  puts "Your new version of the poem added #{lines} lines"
 end
 
 cool_song(input)
